@@ -9,7 +9,7 @@
 # 5) Execute `sudo systemctl enable noip2`
 # 6) Execute `sudo systemctl start noip2`
 #
-# systemd supports lots of fancy features, look here (and linked docs) for a ful                                                                                                                                                             l list:
+# systemd supports lots of fancy features, look here (and linked docs) for a full list:
 #   http://www.freedesktop.org/software/systemd/man/systemd.exec.html
 
 [Unit]
